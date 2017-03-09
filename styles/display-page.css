@@ -9,42 +9,37 @@ main {
 	width: 800px;
 }
 
-.inner-one {
+.box {
+	border: 1px black solid;
+	display: inline-block;
+}
+
+.middle {
+	height: 200px;
+	width: 50%;
+}
+
+.bottom {
+	height: 300px;
+	width: 33.33%;
+}
+
+.green {
 	background-color: green;
-	border: 1px black solid;
-	display: inline-block;
-	height: 200px;
-	width: 50%;
 }
 
-.inner-two {
+.blue {
 	background-color: blue;
-	border: 1px black solid;
-	display: inline-block;
-	height: 200px;
-	width: 50%;
 }
 
-.inner-three {
+.grey {
 	background-color: grey;
-	border: 1px black solid;
-	display: inline-block;
-	height: 300px;
-	width: 33.33%;
 }
 
-.inner-four {
+.black {
 	background-color: black;
-	border: 1px black solid;
-	display: inline-block;
-	height: 300px;
-	width: 33.33%;
 }
 
-.inner-five {
+.orange {
 	background-color: orange;
-	border: 1px black solid;
-	display: inline-block;
-	height: 300px;
-	width: 33.33%;
 }
