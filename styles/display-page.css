@@ -3,7 +3,9 @@ main {
 }
 
 .main-container {
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 90px;
 	width: 800px;
 }
 
